@@ -1,3 +1,24 @@
+# ===============Gatsby ===============
+A framework based on react , to build fast websites and apps
+- An ecosystem of react and related library, like routing, layouting etc provided out of the box.
+
+- Static site generator, mostly blog or cms app
+- Gatsby CreateReactApp and NextJS
+#### netlify.com to host our static sites
+
+
+#### `gatsby-transformer-remark`
+converts markdown to html pages
+
+## More ref : 
+https://github.com/ZhangMYihua/gatsby-blog-netlify
+
+
+### Graphql 
+http://localhost:8000/___graphql 
+graphql query to fetch the blog data
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
